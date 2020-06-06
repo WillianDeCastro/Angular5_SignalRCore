@@ -159,6 +159,10 @@
   dependencies:
     tslib "^1.7.1"
 
+"@aspnet/signalr-client@^1.0.0-alpha2-final":
+  version "1.0.0-alpha2-update1"
+  resolved "https://registry.yarnpkg.com/@aspnet/signalr-client/-/signalr-client-1.0.0-alpha2-update1.tgz#19970bf998cd45e459e7a7079af2be94b3d85b0b"
+
 "@ngtools/json-schema@1.2.0":
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/@ngtools/json-schema/-/json-schema-1.2.0.tgz#06e5ecd29e9a37d260a447dd873ea2becd228c4f"
@@ -6881,8 +6885,8 @@ websocket-driver@>=0.5.1:
     websocket-extensions ">=0.1.1"
 
 websocket-extensions@>=0.1.1:
-  version "0.1.3"
-  resolved "https://registry.yarnpkg.com/websocket-extensions/-/websocket-extensions-0.1.3.tgz#5d2ff22977003ec687a4b87073dfbbac146ccf29"
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/websocket-extensions/-/websocket-extensions-0.1.4.tgz#7f8473bc839dfd87608adb95d7eb075211578a42"
 
 when@^3.7.7:
   version "3.7.8"
